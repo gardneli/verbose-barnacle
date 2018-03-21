@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/gardneli/verbose-barnacle.git" 
+  },
   "author": "Lee Gardner",
   "contributors": [
     "Mr. Nobody <nobody@what.com> (http://no.com)"
