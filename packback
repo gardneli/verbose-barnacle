@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-server",
+  "version": "0.1.0",
+  "description": "A sample Node.js server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http": "^4.13.3"
+  },
+  "author": "Lee Gardner",
+  "contributors": [
+    "Mr. Nobody <nobody@what.com> (http://no.com)"
+  ],
+  "license": "MIT"
+}
